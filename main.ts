@@ -16,5 +16,7 @@ let myInterface : MyInterface = {
     myString: 'Hello World'
 };
 
-console.log('myNumber = ', myInterface.myNumber)
+console.log('myNumbercl = ', myInterface.myNumber)
 console.log('myString = ', myInterface.myString)
+
+//ciao
